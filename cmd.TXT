@@ -1,0 +1,28 @@
+# 🎂 __mamouni 1xp__ 🎂
+`🎁` **!setprefix <prefix> :** Change the command prefix. Example: !setprefix ?
+`🎁` **!setreply <text> :** Change the reply sent when someone mentions you.
+`🎁` **!reply <on|off> :** Enable or disable mention replies.
+`🎁` **!say <channel_id> <server_id> <text> :** Send text to a server channel from a DM. Example: !say 123456789 987654321 Hello everyone
+`🎁` **!insta <username> :** Check an Instagram profile. The @ before the username is optional.
+`🎁` **!rizz me :** Send a random pickup line to yourself in the current channel.
+`🎁` **!rizz <user_id> <channel_id> <server_id> :** Tag a user with a random pickup line in a specified server channel.
+`🎁` **!help :** Show all commands using the current prefix.
+`🎁` **!zidd @user <emoji> :** Track reactions for a user.
+`🎁` **!kherej @user :** Stop tracking a user.
+`🎁` **!lista :** List tracked reactions.
+`🎀` **!setappid <id> :** Set the Rich Presence application ID.
+`🎀` **!settype <PLAYING|STREAMING|LISTENING|WATCHING|CUSTOM|COMPETING> :** Set the Rich Presence type.
+`🎀` **!setname <text> :** Set the Rich Presence name.
+`🎀` **!setdetails <text> :** Set the Rich Presence details.
+`🎀` **!setstate <text> :** Set the Rich Presence state.
+`🎀` **!setlargeimage <url> :** Set the large Rich Presence image.
+`🎀` **!largset <url> :** Alias for !setlargeimage.
+`🎀` **!setlargetext <text> :** Set the large image hover text.
+`🎀` **!setbutton <1|2> <label> | <url> :** Set one of the two Rich Presence buttons.
+`🎀` **!track [server_id] :** Follow your voice channel.
+`🎀` **!sf :** Stop voice tracking.
+`🎀` **!rwa7 <voice_channel_id> :** Join a voice channel.
+`🎀` **!9awed :** Leave the current voice channel.
+`🎀` **!jc <server_id> <voice_channel_id> :** Join a voice channel by server and channel IDs.
+
+`🍳` **Made by `mamouni1xp`**
