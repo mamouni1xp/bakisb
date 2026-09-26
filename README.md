@@ -63,16 +63,21 @@ All commands (except the mention auto-reply) are restricted to the bot owner (`o
 
 ## Setup
 
-1. Install dependencies:
+1. Clone the repo:
+   ```
+   git clone https://github.com/mamouni1xp/bakisb.git
+   cd bakisb
+   ```
+2. Install dependencies:
    ```
    npm install discord.js-selfbot-v13 @discordjs/voice dotenv
    ```
-2. Create a `.env` file in the project root:
+3. Create a `.env` file in the project root:
    ```
    DISCORD_TOKEN=your_account_token_here
    OWNER_ID=your_discord_user_id_here
    ```
-3. Run the bot:
+4. Run the bot:
    ```
    node index.js
    ```
